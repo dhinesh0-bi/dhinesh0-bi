@@ -14,17 +14,37 @@
 ---
 
 ## 👋 Introduction
+📍 Vellore, Tamil Nadu, India  
+🎓 B.E. Computer Science Engineering (2026)
+
+</div>
+
+---
+
+## 💫 About Me
 
 ```python
 class Dhinesh:
-    name        = "Dhinesh K"
-    role        = "Python Full Stack Developer"
-    location    = "Vellore, Tamil Nadu 🇮🇳"
-    education   = "B.E. Computer Science Engineering (2026)"
-    email       = "kdhinesh2005@gmail.com"
-    passion     = ["Backend Engineering", "AI/ML Applications", "Scalable Systems"]
-    goal        = "Building intelligent, high-performance software that solves real problems"
-    open_to     = "Full-time Roles | Internships | Open Source Contributions"
+    def __init__(self):
+        self.name = "Dhinesh K"
+        self.role = "Python Full Stack Developer"
+        self.location = "Vellore, Tamil Nadu 🇮🇳"
+        self.education = "B.E. Computer Science Engineering (2026)"
+        self.passion = [
+            "Backend Engineering",
+            "AI/ML Applications",
+            "Scalable Systems"
+        ]
+        self.goal = "Building intelligent, high-performance software that solves real problems"
+
+    def current_focus(self):
+        return [
+            "Full Stack Development",
+            "Django & Flask Applications",
+            "REST API Development",
+            "AI-powered Projects",
+            "Cloud & Deployment"
+        ]
 ```
 
 > *"First, solve the problem. Then, write the code."* — John Johnson
