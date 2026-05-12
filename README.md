@@ -22,30 +22,20 @@
 ---
 
 ## 💫 About Me
+>Python Full Stack Developer & Software Engineer based in Vellore, India
+>
+>B.E. Computer Science Engineering — (2022–2026)
 
-```python
-class Dhinesh:
-    def __init__(self):
-        self.name = "Dhinesh K"
-        self.role = "Python Full Stack Developer"
-        self.location = "Vellore, Tamil Nadu 🇮🇳"
-        self.education = "B.E. Computer Science Engineering (2026)"
-        self.passion = [
-            "Backend Engineering",
-            "AI/ML Applications",
-            "Scalable Systems"
-        ]
-        self.goal = "Building intelligent, high-performance software that solves real problems"
+I'm a detail-oriented **Software Engineer** with practical expertise in **back-end engineering**, **RESTful API development**,**database management**, and **full-stack application development**. I enjoy building scalable and efficient software solutions with a strong focus on clean code, performance optimization, and problem-solving.
 
-    def current_focus(self):
-        return [
-            "Full Stack Development",
-            "Django & Flask Applications",
-            "REST API Development",
-            "AI-powered Projects",
-            "Cloud & Deployment"
-        ]
-```
+I have solid knowledge of **Data Structures & Algorithms**, **Object-Oriented Programming (OOP)**, and the **Software Development Life Cycle (SDLC)**. My technical experience includes working with technologies such as **Python**, **JavaScript**, **Django**, **Flask**, **MySQL**, **MongoDB**, **Git**, **Docker**, and **Linux**.
+
+-🔭 Currently building: Full-stack web applications and AI-powered software projects
+-🌱 Currently learning: Advanced Django Architecture, Cloud Deployment, and AI/ML Integration
+-👯 Open to: Full-time roles, internships, freelance opportunities, and open-source collaborations
+-💬 Ask me about: Python, REST APIs, Backend Development, Databases, and Full Stack Development
+-⚡ Core strengths: Problem-solving, scalable application development, debugging, and agile collaboration
+-📫 Reach me at: kdhinesh2005@gmail.com
 
 > *"First, solve the problem. Then, write the code."* — John Johnson
 
