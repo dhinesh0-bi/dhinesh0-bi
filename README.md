@@ -17,6 +17,10 @@
 📍 Vellore, Tamil Nadu, India  
 🎓 B.E. Computer Science Engineering (2026)
 
+I'm a detail-oriented **Software Engineer** with practical expertise in **back-end engineering**, **RESTful API development**,**database management**, and **full-stack application development**. I enjoy building scalable and efficient software solutions with a strong focus on clean code, performance optimization, and problem-solving.
+
+I have solid knowledge of **Data Structures & Algorithms**, **Object-Oriented Programming (OOP)**, and the **Software Development Life Cycle (SDLC)**. My technical experience includes working with technologies such as **Python**, **JavaScript**, **Django**, **Flask**, **MySQL**, **MongoDB**, **Git**, **Docker**, and **Linux**.
+
 </div>
 
 ---
@@ -26,9 +30,6 @@
 >
 >B.E. Computer Science Engineering — (2022–2026)
 
-I'm a detail-oriented **Software Engineer** with practical expertise in **back-end engineering**, **RESTful API development**,**database management**, and **full-stack application development**. I enjoy building scalable and efficient software solutions with a strong focus on clean code, performance optimization, and problem-solving.
-
-I have solid knowledge of **Data Structures & Algorithms**, **Object-Oriented Programming (OOP)**, and the **Software Development Life Cycle (SDLC)**. My technical experience includes working with technologies such as **Python**, **JavaScript**, **Django**, **Flask**, **MySQL**, **MongoDB**, **Git**, **Docker**, and **Linux**.
 
 -🔭 Currently building: Full-stack web applications and AI-powered software projects
 -🌱 Currently learning: Advanced Django Architecture, Cloud Deployment, and AI/ML Integration
