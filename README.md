@@ -31,12 +31,11 @@ I have solid knowledge of **Data Structures & Algorithms**, **Object-Oriented Pr
 >B.E. Computer Science Engineering — (2022–2026)
 
 
--🔭 Currently building: Full-stack web applications and AI-powered software projects
--🌱 Currently learning: Advanced Django Architecture, Cloud Deployment, and AI/ML Integration
--👯 Open to: Full-time roles, internships, freelance opportunities, and open-source collaborations
--💬 Ask me about: Python, REST APIs, Backend Development, Databases, and Full Stack Development
--⚡ Core strengths: Problem-solving, scalable application development, debugging, and agile collaboration
--📫 Reach me at: kdhinesh2005@gmail.com
+- 🔭 **Currently building:** [Ai Fake review detection system](https://github.com/dhinesh0-bi/Ai-Fake-review-detection-system) — Full-stack web applications and AI-powered software projects
+- 🌱 **Currently learning:** Advanced Django Architecture, Cloud Deployment, and AI/ML Integration
+- 👯 **Open to:**  Full-time roles, internships, freelance opportunities, and open-source collaborations
+- 💬 **Ask me about:** Python, REST APIs, Backend Development, Databases, and Full Stack Development
+- 📫 **Reach me at:** [kdhinesh2005@gmail.com](mailto:kdhinesh2005@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/1-dhinesh-k/)
 
 > *"First, solve the problem. Then, write the code."* — John Johnson
 
